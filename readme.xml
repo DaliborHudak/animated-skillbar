@@ -1,0 +1,6 @@
+<!-- just copy the files into the project folder and include with php where u want -->
+<!-- <?php include "./skillbar.php" ?> -->
+
+
+<!-- for the css prelink -->
+<!-- <link rel="stylesheet" href="skillbar.css"> -->
